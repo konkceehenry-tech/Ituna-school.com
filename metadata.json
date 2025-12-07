@@ -1,8 +1,10 @@
 {
-  "name": "Ituna secondary School ",
+  "name": "Ituna secondary School",
   "description": "A modern, responsive landing page for the Ituna secondary School Portal, designed to provide information about features, courses, and updates for students and educators.",
   "requestFramePermissions": [
     "camera",
     "microphone"
-  ]
+  ],
+  "url": "https://YOUR_SITE_DOMAIN_OR_GITHUB_PAGES_URL/",
+  "image": "/social-preview.png"
 }
